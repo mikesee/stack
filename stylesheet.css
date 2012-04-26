@@ -1,0 +1,31 @@
+body {
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+	margin: 0 auto;
+	width: 40em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+a {
+	color: red;
+}
+
+nav, .end {
+	margin-top: 2em;
+	margin-bottom: 4em;
+	text-align: center;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+.quote {
+	margin-top: 1em;
+}
+
+.quote:before {
+	content:"\2014";
+}

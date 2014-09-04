@@ -9,12 +9,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: red;
+	color: #f00;
 }
 
 nav, .end {
-	margin-top: 2em;
 	margin-bottom: 4em;
+	margin-top: 2em;
 	text-align: center;
 }
 
@@ -27,5 +27,5 @@ blockquote {
 }
 
 .quote:before {
-	content:"\2014";
+	content: '\2014';
 }
